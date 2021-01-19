@@ -1,6 +1,0 @@
-{
-	"name": "DEGJS NPM Publish Workflow",
-	"description": "DEGJS CI workflow template for publishing to NPM.",
-	"iconName": "default",
-	"categories": ["JavaScript"]
-}
