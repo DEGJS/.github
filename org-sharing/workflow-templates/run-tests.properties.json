@@ -1,6 +1,0 @@
-{
-	"name": "DEGJS Run Tests",
-	"description": "DEGJS CI workflow template for running tests.",
-	"iconName": "default",
-	"categories": ["JavaScript"]
-}
