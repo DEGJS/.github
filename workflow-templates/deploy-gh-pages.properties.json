@@ -1,0 +1,6 @@
+{
+	"name": "DEGJS Deploy to Github Pages",
+	"description": "DEGJS CI workflow template for deploying a demo project to Github Pages.",
+	"iconName": "default",
+	"categories": ["JavaScript"]
+}
